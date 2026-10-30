@@ -1,0 +1,1796 @@
+{
+ "kilde": "SSB ikoner oversikt 2024-03-04 (PDF fra Illustrator)",
+ "bruk": "Send forespørsel om bruk av ikon til profil@ssb.no. Se designhåndboka for regler.",
+ "farge": "Mørke flater bruker currentColor (standard #274247). Hvite flater er faste.",
+ "ikoner": [
+  {
+   "nr": 1,
+   "fil": "ikon-001.svg",
+   "navn": "plaster",
+   "stikkord": [
+    "helse",
+    "skade",
+    "sykdom"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 2,
+   "fil": "ikon-002.svg",
+   "navn": "to personer",
+   "stikkord": [
+    "ansatte",
+    "arbeid",
+    "sysselsetting"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 3,
+   "fil": "ikon-003.svg",
+   "navn": "sigarett",
+   "stikkord": [
+    "røyking",
+    "tobakk",
+    "helse"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 4,
+   "fil": "ikon-004.svg",
+   "navn": "kalender",
+   "stikkord": [
+    "tid",
+    "dato",
+    "periode"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 5,
+   "fil": "ikon-005.svg",
+   "navn": "kofferter",
+   "stikkord": [
+    "reise",
+    "turisme",
+    "arbeid"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 6,
+   "fil": "ikon-006.svg",
+   "navn": "mynter",
+   "stikkord": [
+    "penger",
+    "økonomi",
+    "priser"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 7,
+   "fil": "ikon-007.svg",
+   "navn": "bygning",
+   "stikkord": [
+    "bolig",
+    "bygg"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 8,
+   "fil": "ikon-008.svg",
+   "navn": "fabrikk",
+   "stikkord": [
+    "industri",
+    "produksjon",
+    "utslipp"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 9,
+   "fil": "ikon-009.svg",
+   "navn": "kontorbygg",
+   "stikkord": [
+    "næringsbygg",
+    "blokk",
+    "by"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 10,
+   "fil": "ikon-010.svg",
+   "navn": "hus",
+   "stikkord": [
+    "bolig",
+    "eiendom",
+    "husholdning"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 11,
+   "fil": "ikon-011.svg",
+   "navn": "moderne bygg",
+   "stikkord": [
+    "bolig",
+    "næringsbygg",
+    "byggeareal"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 12,
+   "fil": "ikon-012.svg",
+   "navn": "offentlig bygning",
+   "stikkord": [
+    "stat",
+    "forvaltning",
+    "bank"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 13,
+   "fil": "ikon-013.svg",
+   "navn": "Norge",
+   "stikkord": [
+    "nasjonal",
+    "Norge"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 14,
+   "fil": "ikon-014.svg",
+   "navn": "jordklode",
+   "stikkord": [
+    "verden",
+    "internasjonal",
+    "utland"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 15,
+   "fil": "ikon-015.svg",
+   "navn": "tåteflaske",
+   "stikkord": [
+    "spedbarn",
+    "fødsel"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 16,
+   "fil": "ikon-016.svg",
+   "navn": "globus",
+   "stikkord": [
+    "utland",
+    "internasjonal",
+    "utdanning"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 17,
+   "fil": "ikon-017.svg",
+   "navn": "ABC-klosser",
+   "stikkord": [
+    "barnehage",
+    "skole",
+    "læring"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 18,
+   "fil": "ikon-018.svg",
+   "navn": "person",
+   "stikkord": [
+    "befolkning",
+    "individ"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 19,
+   "fil": "ikon-019.svg",
+   "navn": "voksen og barn",
+   "stikkord": [
+    "familie",
+    "foreldre"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 20,
+   "fil": "ikon-020.svg",
+   "navn": "familie med drage",
+   "stikkord": [
+    "barn",
+    "familie",
+    "fritid"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 21,
+   "fil": "ikon-021.svg",
+   "navn": "familie",
+   "stikkord": [
+    "husholdning",
+    "barn"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 22,
+   "fil": "ikon-022.svg",
+   "navn": "person med baby",
+   "stikkord": [
+    "foreldre",
+    "fødsel",
+    "permisjon"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 23,
+   "fil": "ikon-023.svg",
+   "navn": "baby",
+   "stikkord": [
+    "fødsel",
+    "fødte",
+    "spedbarn"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 24,
+   "fil": "ikon-024.svg",
+   "navn": "elever ABC",
+   "stikkord": [
+    "skole",
+    "utdanning"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 25,
+   "fil": "ikon-025.svg",
+   "navn": "lekeplass",
+   "stikkord": [
+    "barnehage",
+    "barn"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 26,
+   "fil": "ikon-026.svg",
+   "navn": "person",
+   "stikkord": [
+    "befolkning"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 27,
+   "fil": "ikon-027.svg",
+   "navn": "korn",
+   "stikkord": [
+    "jordbruk",
+    "mat"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 28,
+   "fil": "ikon-028.svg",
+   "navn": "skolebygg",
+   "stikkord": [
+    "skole",
+    "utdanning"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 29,
+   "fil": "ikon-029.svg",
+   "navn": "person",
+   "stikkord": [
+    "befolkning"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 30,
+   "fil": "ikon-030.svg",
+   "navn": "lommebok",
+   "stikkord": [
+    "inntekt",
+    "forbruk",
+    "økonomi"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 31,
+   "fil": "ikon-031.svg",
+   "navn": "penger i hånd",
+   "stikkord": [
+    "stønad",
+    "tilskudd",
+    "overføringer"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 32,
+   "fil": "ikon-032.svg",
+   "navn": "hånd med mynter",
+   "stikkord": [
+    "betaling",
+    "skatt"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 33,
+   "fil": "ikon-033.svg",
+   "navn": "hånd med hjerte",
+   "stikkord": [
+    "omsorg",
+    "frivillighet",
+    "helse"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 34,
+   "fil": "ikon-034.svg",
+   "navn": "hender",
+   "stikkord": [
+    "hjelp",
+    "omsorg"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 35,
+   "fil": "ikon-035.svg",
+   "navn": "håndtrykk",
+   "stikkord": [
+    "avtale",
+    "samarbeid",
+    "handel"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 36,
+   "fil": "ikon-036.svg",
+   "navn": "organisasjon",
+   "stikkord": [
+    "ledelse",
+    "hierarki",
+    "virksomhet"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 37,
+   "fil": "ikon-037.svg",
+   "navn": "person mellom steder",
+   "stikkord": [
+    "pendling",
+    "flytting",
+    "sted"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 38,
+   "fil": "ikon-038.svg",
+   "navn": "gruppe",
+   "stikkord": [
+    "møte",
+    "organisasjon"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 39,
+   "fil": "ikon-039.svg",
+   "navn": "kniv og gaffel",
+   "stikkord": [
+    "mat",
+    "restaurant",
+    "servering"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 40,
+   "fil": "ikon-040.svg",
+   "navn": "cocktail",
+   "stikkord": [
+    "servering",
+    "alkohol"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 41,
+   "fil": "ikon-041.svg",
+   "navn": "drikke med sitron",
+   "stikkord": [
+    "servering",
+    "drikke"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 42,
+   "fil": "ikon-042.svg",
+   "navn": "kettlebell",
+   "stikkord": [
+    "vekt",
+    "trening"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 43,
+   "fil": "ikon-043.svg",
+   "navn": "manual",
+   "stikkord": [
+    "trening",
+    "idrett"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 44,
+   "fil": "ikon-044.svg",
+   "navn": "helsekors",
+   "stikkord": [
+    "helse",
+    "sykehus"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 45,
+   "fil": "ikon-045.svg",
+   "navn": "spire",
+   "stikkord": [
+    "miljø",
+    "natur",
+    "vekst"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 46,
+   "fil": "ikon-046.svg",
+   "navn": "pille",
+   "stikkord": [
+    "legemiddel",
+    "helse"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 47,
+   "fil": "ikon-047.svg",
+   "navn": "advarsel",
+   "stikkord": [
+    "risiko",
+    "fare",
+    "ulykke"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 48,
+   "fil": "ikon-048.svg",
+   "navn": "jagerfly",
+   "stikkord": [
+    "forsvar",
+    "fly"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 49,
+   "fil": "ikon-049.svg",
+   "navn": "familie med barn",
+   "stikkord": [
+    "husholdning"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 50,
+   "fil": "ikon-050.svg",
+   "navn": "dommerklubbe",
+   "stikkord": [
+    "rett",
+    "domstol",
+    "kriminalitet"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 51,
+   "fil": "ikon-051.svg",
+   "navn": "blyant",
+   "stikkord": [
+    "skriving",
+    "skjema"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 52,
+   "fil": "ikon-052.svg",
+   "navn": "badevekt",
+   "stikkord": [
+    "vekt",
+    "helse"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 53,
+   "fil": "ikon-053.svg",
+   "navn": "person med mynter",
+   "stikkord": [
+    "lønn",
+    "inntekt"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 54,
+   "fil": "ikon-054.svg",
+   "navn": "bok",
+   "stikkord": [
+    "lesing",
+    "bibliotek"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 55,
+   "fil": "ikon-055.svg",
+   "navn": "bygninger",
+   "stikkord": [
+    "by",
+    "bebyggelse"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 56,
+   "fil": "ikon-056.svg",
+   "navn": "bil forfra",
+   "stikkord": [
+    "bil",
+    "kjøretøy",
+    "transport"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 57,
+   "fil": "ikon-057.svg",
+   "navn": "bil",
+   "stikkord": [
+    "bil",
+    "transport"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 58,
+   "fil": "ikon-058.svg",
+   "navn": "buss",
+   "stikkord": [
+    "kollektivtrafikk",
+    "transport"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 59,
+   "fil": "ikon-059.svg",
+   "navn": "person",
+   "stikkord": [
+    "befolkning"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 60,
+   "fil": "ikon-060.svg",
+   "navn": "ferje",
+   "stikkord": [
+    "skip",
+    "sjøtransport"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 61,
+   "fil": "ikon-061.svg",
+   "navn": "gyngestol",
+   "stikkord": [
+    "eldre",
+    "pensjon"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 62,
+   "fil": "ikon-062.svg",
+   "navn": "tannhjul",
+   "stikkord": [
+    "teknologi",
+    "industri",
+    "produksjon"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 63,
+   "fil": "ikon-063.svg",
+   "navn": "fisk",
+   "stikkord": [
+    "fiske",
+    "mat"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 64,
+   "fil": "ikon-064.svg",
+   "navn": "rådyr",
+   "stikkord": [
+    "vilt",
+    "jakt",
+    "natur"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 65,
+   "fil": "ikon-065.svg",
+   "navn": "dyrespor",
+   "stikkord": [
+    "vilt",
+    "natur"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 66,
+   "fil": "ikon-066.svg",
+   "navn": "hjortetrofé",
+   "stikkord": [
+    "jakt",
+    "vilt"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 67,
+   "fil": "ikon-067.svg",
+   "navn": "ulv",
+   "stikkord": [
+    "rovdyr",
+    "natur"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 68,
+   "fil": "ikon-068.svg",
+   "navn": "hovspor",
+   "stikkord": [
+    "vilt",
+    "natur"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 69,
+   "fil": "ikon-069.svg",
+   "navn": "person og prest",
+   "stikkord": [
+    "religion",
+    "tros- og livssyn"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 70,
+   "fil": "ikon-070.svg",
+   "navn": "kirke",
+   "stikkord": [
+    "religion",
+    "tros- og livssyn"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 71,
+   "fil": "ikon-071.svg",
+   "navn": "person 16+",
+   "stikkord": [
+    "aldersgrense",
+    "ungdom"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 72,
+   "fil": "ikon-072.svg",
+   "navn": "diplom",
+   "stikkord": [
+    "utdanning",
+    "sertifikat"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 73,
+   "fil": "ikon-073.svg",
+   "navn": "person med globus",
+   "stikkord": [
+    "innvandrer",
+    "internasjonal"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 74,
+   "fil": "ikon-074.svg",
+   "navn": "buss forfra",
+   "stikkord": [
+    "kollektivtrafikk",
+    "trikk"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 75,
+   "fil": "ikon-075.svg",
+   "navn": "bil i kollisjon",
+   "stikkord": [
+    "ulykke",
+    "transport"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 76,
+   "fil": "ikon-076.svg",
+   "navn": "arbeider",
+   "stikkord": [
+    "bygg og anlegg",
+    "yrke"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 77,
+   "fil": "ikon-077.svg",
+   "navn": "merd med fisk",
+   "stikkord": [
+    "havbruk",
+    "oppdrett"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 78,
+   "fil": "ikon-078.svg",
+   "navn": "fiskebåt",
+   "stikkord": [
+    "fiske",
+    "sjø"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 79,
+   "fil": "ikon-079.svg",
+   "navn": "egg",
+   "stikkord": [
+    "mat",
+    "jordbruk"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 80,
+   "fil": "ikon-080.svg",
+   "navn": "sitrusfrukt",
+   "stikkord": [
+    "mat",
+    "frukt"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 81,
+   "fil": "ikon-081.svg",
+   "navn": "notatblokk og penn",
+   "stikkord": [
+    "skjema",
+    "undersøkelse"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 82,
+   "fil": "ikon-082.svg",
+   "navn": "stolpediagram",
+   "stikkord": [
+    "statistikk",
+    "vekst"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 83,
+   "fil": "ikon-083.svg",
+   "navn": "dessert",
+   "stikkord": [
+    "mat",
+    "forbruk"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 84,
+   "fil": "ikon-084.svg",
+   "navn": "hus med wifi",
+   "stikkord": [
+    "internett",
+    "bredbånd"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 85,
+   "fil": "ikon-085.svg",
+   "navn": "nettside www",
+   "stikkord": [
+    "internett",
+    "digitalt"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 86,
+   "fil": "ikon-086.svg",
+   "navn": "kartnål",
+   "stikkord": [
+    "sted",
+    "region",
+    "kart"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 87,
+   "fil": "ikon-087.svg",
+   "navn": "filmkamera",
+   "stikkord": [
+    "film",
+    "kultur"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 88,
+   "fil": "ikon-088.svg",
+   "navn": "filmklapper",
+   "stikkord": [
+    "film",
+    "kultur"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 89,
+   "fil": "ikon-089.svg",
+   "navn": "skjerm",
+   "stikkord": [
+    "media",
+    "tv"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 90,
+   "fil": "ikon-090.svg",
+   "navn": "gjenvinning",
+   "stikkord": [
+    "avfall",
+    "miljø"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 91,
+   "fil": "ikon-091.svg",
+   "navn": "fiskebein",
+   "stikkord": [
+    "avfall",
+    "matsvinn"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 92,
+   "fil": "ikon-092.svg",
+   "navn": "vann og mynter",
+   "stikkord": [
+    "vann",
+    "avgift",
+    "priser"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 93,
+   "fil": "ikon-093.svg",
+   "navn": "strømmåler kWh",
+   "stikkord": [
+    "energi",
+    "strøm"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 94,
+   "fil": "ikon-094.svg",
+   "navn": "tavle med tre",
+   "stikkord": [
+    "miljø",
+    "bærekraft"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 95,
+   "fil": "ikon-095.svg",
+   "navn": "soloppgang over åker",
+   "stikkord": [
+    "jordbruk",
+    "landskap"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 96,
+   "fil": "ikon-096.svg",
+   "navn": "gris",
+   "stikkord": [
+    "husdyr",
+    "jordbruk"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 97,
+   "fil": "ikon-097.svg",
+   "navn": "steder med hus",
+   "stikkord": [
+    "bosetting",
+    "kommuner",
+    "tettsted"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 98,
+   "fil": "ikon-098.svg",
+   "navn": "grantrær",
+   "stikkord": [
+    "skog"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 99,
+   "fil": "ikon-099.svg",
+   "navn": "lauvtrær",
+   "stikkord": [
+    "skog",
+    "natur"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 100,
+   "fil": "ikon-100.svg",
+   "navn": "trær",
+   "stikkord": [
+    "skog",
+    "natur"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 101,
+   "fil": "ikon-101.svg",
+   "navn": "trær i park",
+   "stikkord": [
+    "natur",
+    "grøntareal"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 102,
+   "fil": "ikon-102.svg",
+   "navn": "naturrute",
+   "stikkord": [
+    "natur",
+    "arealbruk"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 103,
+   "fil": "ikon-103.svg",
+   "navn": "landbruksrute",
+   "stikkord": [
+    "jordbruk",
+    "arealbruk"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 104,
+   "fil": "ikon-104.svg",
+   "navn": "bebyggelsesrute",
+   "stikkord": [
+    "bebyggelse",
+    "tettsted",
+    "arealbruk"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 105,
+   "fil": "ikon-105.svg",
+   "navn": "byrute",
+   "stikkord": [
+    "by",
+    "arealbruk"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 106,
+   "fil": "ikon-106.svg",
+   "navn": "hav med fisk",
+   "stikkord": [
+    "hav",
+    "vann"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 107,
+   "fil": "ikon-107.svg",
+   "navn": "snø",
+   "stikkord": [
+    "vær",
+    "klima"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 108,
+   "fil": "ikon-108.svg",
+   "navn": "landskap med vei",
+   "stikkord": [
+    "landskap",
+    "samferdsel"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 109,
+   "fil": "ikon-109.svg",
+   "navn": "fjell ved vann",
+   "stikkord": [
+    "natur",
+    "landskap"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 110,
+   "fil": "ikon-110.svg",
+   "navn": "isbjørn",
+   "stikkord": [
+    "Svalbard",
+    "Arktis"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 111,
+   "fil": "ikon-111.svg",
+   "navn": "hytte",
+   "stikkord": [
+    "fritidsbolig"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 112,
+   "fil": "ikon-112.svg",
+   "navn": "hytte på fjellet",
+   "stikkord": [
+    "fritidsbolig",
+    "fjell"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 113,
+   "fil": "ikon-113.svg",
+   "navn": "by ved sjøen",
+   "stikkord": [
+    "havn",
+    "by"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 114,
+   "fil": "ikon-114.svg",
+   "navn": "klokke",
+   "stikkord": [
+    "tid"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 115,
+   "fil": "ikon-115.svg",
+   "navn": "kvinne og mann",
+   "stikkord": [
+    "kjønn",
+    "likestilling"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 116,
+   "fil": "ikon-116.svg",
+   "navn": "kakediagram",
+   "stikkord": [
+    "andel",
+    "statistikk"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 117,
+   "fil": "ikon-117.svg",
+   "navn": "linjediagram",
+   "stikkord": [
+    "utvikling",
+    "statistikk"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 118,
+   "fil": "ikon-118.svg",
+   "navn": "noter",
+   "stikkord": [
+    "musikk",
+    "kultur"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 119,
+   "fil": "ikon-119.svg",
+   "navn": "glass med nisselue",
+   "stikkord": [
+    "jul",
+    "høytid"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 120,
+   "fil": "ikon-120.svg",
+   "navn": "vinglass",
+   "stikkord": [
+    "alkohol",
+    "vin"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 121,
+   "fil": "ikon-121.svg",
+   "navn": "ølglass",
+   "stikkord": [
+    "alkohol",
+    "øl"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 122,
+   "fil": "ikon-122.svg",
+   "navn": "flaske",
+   "stikkord": [
+    "drikke",
+    "alkohol"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 123,
+   "fil": "ikon-123.svg",
+   "navn": "vinflaske",
+   "stikkord": [
+    "alkohol",
+    "vin"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 124,
+   "fil": "ikon-124.svg",
+   "navn": "sirkel med stjerner",
+   "stikkord": [
+    "natt",
+    "verdensrom"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 125,
+   "fil": "ikon-125.svg",
+   "navn": "tog",
+   "stikkord": [
+    "jernbane",
+    "transport"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 126,
+   "fil": "ikon-126.svg",
+   "navn": "personkort",
+   "stikkord": [
+    "personer",
+    "register"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 127,
+   "fil": "ikon-127.svg",
+   "navn": "rørledning",
+   "stikkord": [
+    "vann og avløp",
+    "infrastruktur"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 128,
+   "fil": "ikon-128.svg",
+   "navn": "mobiltelefon",
+   "stikkord": [
+    "mobil",
+    "digitalt"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 129,
+   "fil": "ikon-129.svg",
+   "navn": "lyspære",
+   "stikkord": [
+    "idé",
+    "energi",
+    "innovasjon"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 130,
+   "fil": "ikon-130.svg",
+   "navn": "radio",
+   "stikkord": [
+    "media"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 131,
+   "fil": "ikon-131.svg",
+   "navn": "dataskjerm",
+   "stikkord": [
+    "PC",
+    "IKT"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 132,
+   "fil": "ikon-132.svg",
+   "navn": "video",
+   "stikkord": [
+    "strømming",
+    "media"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 133,
+   "fil": "ikon-133.svg",
+   "navn": "avis",
+   "stikkord": [
+    "media",
+    "nyheter"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 134,
+   "fil": "ikon-134.svg",
+   "navn": "bilder",
+   "stikkord": [
+    "kunst",
+    "foto"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 135,
+   "fil": "ikon-135.svg",
+   "navn": "kakediagram",
+   "stikkord": [
+    "andel",
+    "statistikk"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 136,
+   "fil": "ikon-136.svg",
+   "navn": "navneskilt",
+   "stikkord": [
+    "navn"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 137,
+   "fil": "ikon-137.svg",
+   "navn": "kalkulator",
+   "stikkord": [
+    "beregning",
+    "regnskap"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 138,
+   "fil": "ikon-138.svg",
+   "navn": "timeglass",
+   "stikkord": [
+    "tid",
+    "venting"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 139,
+   "fil": "ikon-139.svg",
+   "navn": "klokke med pil",
+   "stikkord": [
+    "tid",
+    "frist"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 140,
+   "fil": "ikon-140.svg",
+   "navn": "gravstein",
+   "stikkord": [
+    "død",
+    "døde",
+    "dødsfall"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 141,
+   "fil": "ikon-141.svg",
+   "navn": "hus med piler",
+   "stikkord": [
+    "flytting",
+    "migrasjon"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 142,
+   "fil": "ikon-142.svg",
+   "navn": "vei mot horisont",
+   "stikkord": [
+    "samferdsel",
+    "vei"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 143,
+   "fil": "ikon-143.svg",
+   "navn": "steder med hus",
+   "stikkord": [
+    "kommuner",
+    "bosetting"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 144,
+   "fil": "ikon-144.svg",
+   "navn": "plantegning",
+   "stikkord": [
+    "bolig",
+    "areal"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 145,
+   "fil": "ikon-145.svg",
+   "navn": "barn og musikk",
+   "stikkord": [
+    "kulturskole",
+    "fritid"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 146,
+   "fil": "ikon-146.svg",
+   "navn": "baby gutt",
+   "stikkord": [
+    "fødsel",
+    "gutter"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 147,
+   "fil": "ikon-147.svg",
+   "navn": "baby jente",
+   "stikkord": [
+    "fødsel",
+    "jenter"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 148,
+   "fil": "ikon-148.svg",
+   "navn": "fjell med sol",
+   "stikkord": [
+    "natur",
+    "friluftsliv"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 149,
+   "fil": "ikon-149.svg",
+   "navn": "høner",
+   "stikkord": [
+    "husdyr",
+    "jordbruk"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 150,
+   "fil": "ikon-150.svg",
+   "navn": "sau",
+   "stikkord": [
+    "husdyr",
+    "jordbruk"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 151,
+   "fil": "ikon-151.svg",
+   "navn": "solbriller",
+   "stikkord": [
+    "ferie",
+    "sommer"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 152,
+   "fil": "ikon-152.svg",
+   "navn": "mappe",
+   "stikkord": [
+    "arkiv",
+    "dokumenter"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 153,
+   "fil": "ikon-153.svg",
+   "navn": "dokumenter",
+   "stikkord": [
+    "papir",
+    "arkiv"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 154,
+   "fil": "ikon-154.svg",
+   "navn": "person i fengsel",
+   "stikkord": [
+    "fengsel",
+    "kriminalitet"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 155,
+   "fil": "ikon-155.svg",
+   "navn": "forsker med globus",
+   "stikkord": [
+    "forskning",
+    "internasjonal"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 156,
+   "fil": "ikon-156.svg",
+   "navn": "pass",
+   "stikkord": [
+    "innvandring",
+    "reise",
+    "statsborgerskap"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 157,
+   "fil": "ikon-157.svg",
+   "navn": "berøringsskjerm",
+   "stikkord": [
+    "digitalt",
+    "klikk"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 158,
+   "fil": "ikon-158.svg",
+   "navn": "fotball",
+   "stikkord": [
+    "idrett"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 159,
+   "fil": "ikon-159.svg",
+   "navn": "høne",
+   "stikkord": [
+    "husdyr",
+    "egg"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 160,
+   "fil": "ikon-160.svg",
+   "navn": "lupe over person",
+   "stikkord": [
+    "undersøkelse",
+    "utvalg"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 161,
+   "fil": "ikon-161.svg",
+   "navn": "tall under lupe",
+   "stikkord": [
+    "statistikk",
+    "tall"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 162,
+   "fil": "ikon-162.svg",
+   "navn": "tann",
+   "stikkord": [
+    "tannhelse"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 163,
+   "fil": "ikon-163.svg",
+   "navn": "familie i hus",
+   "stikkord": [
+    "husholdning",
+    "bolig"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 164,
+   "fil": "ikon-164.svg",
+   "navn": "hus med tre",
+   "stikkord": [
+    "bolig",
+    "enebolig"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 165,
+   "fil": "ikon-165.svg",
+   "navn": "bok",
+   "stikkord": [
+    "bok",
+    "bibliotek"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 166,
+   "fil": "ikon-166.svg",
+   "navn": "handlekurv",
+   "stikkord": [
+    "varehandel",
+    "forbruk",
+    "priser"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 167,
+   "fil": "ikon-167.svg",
+   "navn": "åpen eske",
+   "stikkord": [
+    "varer",
+    "pakke",
+    "handel"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 168,
+   "fil": "ikon-168.svg",
+   "navn": "kundeservice",
+   "stikkord": [
+    "tjenester",
+    "kontakt"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 169,
+   "fil": "ikon-169.svg",
+   "navn": "person i hånd",
+   "stikkord": [
+    "tjenester",
+    "omsorg"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 170,
+   "fil": "ikon-170.svg",
+   "navn": "tannhjul i hånd",
+   "stikkord": [
+    "tjenester",
+    "drift"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 171,
+   "fil": "ikon-171.svg",
+   "navn": "skrue",
+   "stikkord": [
+    "verktøy",
+    "industri"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 172,
+   "fil": "ikon-172.svg",
+   "navn": "skrutrekker",
+   "stikkord": [
+    "verktøy",
+    "reparasjon"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 173,
+   "fil": "ikon-173.svg",
+   "navn": "landskap med hus",
+   "stikkord": [
+    "areal",
+    "bebyggelse"
+   ],
+   "usikker": true
+  },
+  {
+   "nr": 174,
+   "fil": "ikon-174.svg",
+   "navn": "bie",
+   "stikkord": [
+    "natur",
+    "pollinering"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": 175,
+   "fil": "ikon-175.svg",
+   "navn": "skjold med lås",
+   "stikkord": [
+    "sikkerhet",
+    "personvern"
+   ],
+   "usikker": false
+  },
+  {
+   "nr": null,
+   "fil": "ssb-kongsvinger.svg",
+   "navn": "SSB Kongsvinger",
+   "stikkord": [
+    "SSB",
+    "bygning"
+   ],
+   "usikker": false,
+   "merknad": "Illustrasjon, ikke ikon. Hvite flater er ikke riktig gjengitt ennå"
+  }
+ ]
+}
