@@ -4,7 +4,7 @@ SSBs ikonsett, trukket ut fra ikonoversikten (PDF fra Illustrator, 4.3.2024) som
 
 > **Bruk.** Ikonene er SSBs. Regler for bruk står i designhåndboka, og forespørsel om bruk sendes til profil@ssb.no. Dette repoet er laget for gjenbruk i interne prototyper og figurer, og er ikke en offisiell kilde til ikonene.
 
-![Oversikt over alle ikonene](oversikt.png)
+![Oversikt over alle ikonene](ikoner-oversikt.png)
 
 ## Innhold
 
